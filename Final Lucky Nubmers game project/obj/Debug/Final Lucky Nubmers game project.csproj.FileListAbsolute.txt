@@ -1,0 +1,7 @@
+c:\users\wecancodeit\source\repos\Final Lucky Nubmers game project\Final Lucky Nubmers game project\bin\Debug\Final Lucky Nubmers game project.exe.config
+c:\users\wecancodeit\source\repos\Final Lucky Nubmers game project\Final Lucky Nubmers game project\bin\Debug\Final Lucky Nubmers game project.exe
+c:\users\wecancodeit\source\repos\Final Lucky Nubmers game project\Final Lucky Nubmers game project\bin\Debug\Final Lucky Nubmers game project.pdb
+c:\users\wecancodeit\source\repos\Final Lucky Nubmers game project\Final Lucky Nubmers game project\obj\Debug\Final Lucky Nubmers game project.csprojAssemblyReference.cache
+c:\users\wecancodeit\source\repos\Final Lucky Nubmers game project\Final Lucky Nubmers game project\obj\Debug\Final Lucky Nubmers game project.csproj.CoreCompileInputs.cache
+c:\users\wecancodeit\source\repos\Final Lucky Nubmers game project\Final Lucky Nubmers game project\obj\Debug\Final Lucky Nubmers game project.exe
+c:\users\wecancodeit\source\repos\Final Lucky Nubmers game project\Final Lucky Nubmers game project\obj\Debug\Final Lucky Nubmers game project.pdb
